@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlLearning", "SqlLearning\SqlLearning.csproj", "{BDC7BD1E-4E94-47FA-82D9-C87EF5F6DE29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlInWPF", "SqlInWPF\SqlInWPF.csproj", "{49C4BA3D-6291-4469-9B27-FC57ED3E7FD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDC7BD1E-4E94-47FA-82D9-C87EF5F6DE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC7BD1E-4E94-47FA-82D9-C87EF5F6DE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC7BD1E-4E94-47FA-82D9-C87EF5F6DE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC7BD1E-4E94-47FA-82D9-C87EF5F6DE29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49C4BA3D-6291-4469-9B27-FC57ED3E7FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C4BA3D-6291-4469-9B27-FC57ED3E7FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C4BA3D-6291-4469-9B27-FC57ED3E7FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C4BA3D-6291-4469-9B27-FC57ED3E7FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2E455FD-DB38-4AC4-927F-B2AE3C399AC0}
+	EndGlobalSection
+EndGlobal
